@@ -5,7 +5,6 @@ from tkinter import filedialog as fd
 from cryptography.fernet import Fernet
 from tkinter import  messagebox as MessageBox
 import webbrowser as wb
-from test.test_decimal import file
 from os.path import os, sys
 
 
@@ -104,7 +103,7 @@ def menAcerca():
     MessageBox.showinfo("Acerca de...", "Ponele llave v2.0 \nHecho con mucho amor por Facundo Quero \n Contacto:facuquero@gmail.com")
     
 
-#Esta función es para que, al compilar todo con pyinstaller, el icono se adjunte dentro del onefile
+#Esta función es para que, al compilar todo con pyinstaller, el icono se adjunte dentro del .exe
 def resource_path(relative_path): 
     base_path = getattr(sys, '_MEIPASS', os.path.dirname(os.path.abspath(__file__)))
     return os.path.join(base_path, relative_path)
