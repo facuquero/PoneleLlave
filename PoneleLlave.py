@@ -8,7 +8,53 @@ import webbrowser as wb
 from os.path import os, sys
 
 
-clave=""
+clave = """x-jQUTe4-RKwe5jegma93Nyxqg9GQjYEo0EN9AI2xCc=stupid
+tY90uS7WC8dHmdq7DYf390iwW3IF1Z4jZqCtYGYuwTvrnseZz2YzgdbgKmKwZ
+-2FfjRrLn
+2bi3l9RyEwVEKhCpx
+-2FN6F1Itrm5
+2KBzRo71LCVhtoClXaWim9QA7pk6oUxvzm6
+-2F7J
+7
+DtPBbdAj4ENRr
+-2gCKhSzUsEIi1AY
+-2FkrKTc8HDNQudojhQjmlzxVXH70SrVicTCd7sZ
+-2BJjqXSvXlyv
+-2FY6G
+-2Fmwj7dlnV0DxymKB3b
+2qzvtk
+-2FM7FDu8c5fj56by6s6pBiVl8
+atxW
+2S4
+8fFd3bwVc
+2tVcUoORHpfk7NE
+2oyIlfV4eh6F4
+295KOYq
+2PQ
+-2FADvUaQpH8gtgDII1lRonh7susYeU3
+-2By96DVKiDm14xuKQ7kKlhvQw0p1YSxAiJMwOE172ng1yOht8
+-2Fv
+GNjRj4s
+GMJdR0w6r2wDbO42sEjKcSJHrHYnO1Fo
+-2FYf7RISkYh9CM5uFJev5OEr
+-2BtoLFVnhbJ5LC4LYtZUIwlKTfKMT3ANeDQZ8WwCI2gk51Iks7yEkY_PscS7KKuBKSMkC58Kn
+-2FpHB
+qLVFNf9iB2JE
+5hWp9fuHQF6VY8nO8iBu3rJDrOKqDdJwI6SLP3oWEnSTgug
+-2BNeIPgyyT2mYUXMF9O9IkvnReBKFUVvvCiABwFrV7p6FGU2eb7h270sZbv
+-2Fd4z8ZSwlN2zgDzC
+-2Fsbzq
+Kjfdn3mNgC8k
+lwdnamz1SaDkwFgIzIACW2yUU
+-2B3qR
+-2BE
+-2FhwwB4TJy9k
+-2F6bSMk2oeQWyKpuCXVA8WLn7iYDA8FyVs5mgjrxYo
+PsjrEhEREi8Smx4pLl0FIN21y0sKm4OGMP4tP
+URyxac7DnVffFS
+-2FbV3
+-2FEO9V402cm"""
+
 direccion_archivo=""
 
 ################################################################
